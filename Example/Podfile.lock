@@ -1,0 +1,23 @@
+PODS:
+  - CocoapodsTestStatic (0.1.0):
+    - Masonry (~> 1.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CocoapodsTestStatic (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CocoapodsTestStatic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoapodsTestStatic: 55cc428261977939325a0f907a8ea939e0efeea5
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: a18cf7ec56c57ee5f0a079a1c378040bb18d6b1a
+
+COCOAPODS: 1.5.3
